@@ -6,6 +6,7 @@ This build is based on OpenCore 0.9.7. Should support MacOS Ventura and above.
 Tested MacOS versions: Ventura and Sonoma
 
 
+
 Bugs:
 
 Ports: HDMI port does not work.
@@ -13,8 +14,11 @@ Ports: HDMI port does not work.
 Bluetooth: When pairing new device wait for it to show all the devices available before pairing or it will get stuck on pairing.
 
 
+
 Whats working:
+
 Everything except the HDMI Port.
+
 
 
 Note for WiFi: 
