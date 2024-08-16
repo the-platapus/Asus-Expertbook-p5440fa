@@ -14,7 +14,6 @@ Bluetooth: When pairing new device wait for it to show all the devices available
 
 
 Whats working:
-
 Everything except the HDMI Port.
 
 
